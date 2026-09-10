@@ -1,0 +1,6 @@
+ cd ~/Vivado-Projects/project_4
+git init
+git add project_4.srcs project_4.xpr .gitignore
+git commit -m "Initial commit"
+git remote add origin https://github.com/doevks/PYNQ-Z1-Vivado-2022.1-Projects.git
+git push -u origin main
