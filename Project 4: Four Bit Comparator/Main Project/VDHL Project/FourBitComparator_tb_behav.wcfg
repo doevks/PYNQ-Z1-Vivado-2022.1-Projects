@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="FourBitComparator_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="FourBitComparator_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="71.801 ns"></ZoomEndTime>
+      <Cursor1Time time="0.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="149"></NameColumnWidth>
+      <ValueColumnWidth column_width="71"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wvobject type="array" fp_name="/FourBitComparator_tb/a_data">
+      <obj_property name="ElementShortName">a_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">a_data[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/FourBitComparator_tb/b_data">
+      <obj_property name="ElementShortName">b_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">b_data[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/FourBitComparator_tb/result_data">
+      <obj_property name="ElementShortName">result_data[2:0]</obj_property>
+      <obj_property name="ObjectShortName">result_data[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
